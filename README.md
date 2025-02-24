@@ -7,6 +7,8 @@ solution
 pip install opencv-python
 
 
+
+
 1. Encrypting a Message
 
 To hide a secret message in an image:
@@ -22,6 +24,8 @@ ii. Enter the secret message you want to hide.
 iii. Provide a password for security.
 
 iv. The encrypted image is saved as encryptedImage.png
+
+
 
 
 2. Decrypting a Message
