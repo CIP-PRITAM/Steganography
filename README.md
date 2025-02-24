@@ -24,7 +24,6 @@ Steps:
 4. The encrypted image is saved as encryptedImage.png
 
 
-
 2. Decrypting a Message
 
 To retrieve the hidden message from the encrypted image:
