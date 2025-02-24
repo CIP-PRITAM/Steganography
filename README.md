@@ -15,13 +15,13 @@ python encrypt.py
 
 Steps:
 
-1. The script will ask for the image file (mypic.png).
+i. The script will ask for the image file (mypic.png).
 
-2. Enter the secret message you want to hide.
+ii. Enter the secret message you want to hide.
 
-3. Provide a password for security.
+iii. Provide a password for security.
 
-4. The encrypted image is saved as encryptedImage.png
+iv. The encrypted image is saved as encryptedImage.png
 
 
 2. Decrypting a Message
@@ -32,8 +32,8 @@ python decrypt.py
 
 Steps:
 
-1. The script reads encryptedImage.png
+i. The script reads encryptedImage.png
 
-2. You must enter the correct password.
+ii. You must enter the correct password.
 
-3. If the password matches, the hidden message is displayed.
+iii. If the password matches, the hidden message is displayed.
